@@ -86,7 +86,7 @@ const Home = () => {
   //   abi: ABI,
   //   functionName: 'retrieve',
   // })
-  // console.log('data: ', data);
+  console.log('data: ', data);
 
 
   const { config } = usePrepareContractWrite({
